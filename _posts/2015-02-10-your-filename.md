@@ -1,6 +1,9 @@
----
-published: true
----
+	title
+post
+You're up and running!
+hi world
+
+
 
 ## A New Post
 
