@@ -1,7 +1,13 @@
-	title
+---
+published: false
+---
+
+	baslikk
 post
 You're up and running!
-hi world
+hi world###
+
+
 
 
 
